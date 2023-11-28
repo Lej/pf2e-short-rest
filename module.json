@@ -1,0 +1,18 @@
+{
+  "id": "pf2e-short-rest",
+  "title": "PF2E Short Rest",
+  "description": "PF2E Short Rest",
+  "authors": [
+    {
+    "name": "Lej"
+    }
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "esmodules": [
+    "scripts/main.js"
+  ]
+}
